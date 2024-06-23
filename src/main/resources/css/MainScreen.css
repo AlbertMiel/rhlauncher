@@ -1,0 +1,36 @@
+/*:root {
+    --unit: calc((0.5vw + 2vh + 5px) / 30);
+
+    --debug-border-on: 0px; // 0px=off 1px=on
+    
+    --nav-height: 70px;
+    --logo-height: calc(400 * var(--unit));
+
+    --menu-bg: blur(7px) brightness(80%) saturate(120%);
+
+    --debug-border: var(--debug-border-on) dashed red;
+
+    --theme-col1: #000;
+    --theme-col2: #1115;
+    --theme-col3: #3335;
+    --theme-col4: #b0b0b055;
+    --theme-col5: #fff5;
+}*/
+
+@font-face {
+    font-family: "font";
+    src: url("/fonts/font.ttf");
+}
+
+.root {
+    -fx-background-image: url("/images/BG.png");
+    -fx-background-position:center;
+    -fx-font-family: "font";
+    -fx-font-size: 1.5em;
+    -fx-text-fill: #fff;
+}
+
+.menubar {
+    -fx-background-color: rgba(255, 255, 255, 0.479);
+    -fx-min-width: 100%;
+}
