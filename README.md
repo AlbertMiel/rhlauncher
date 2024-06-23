@@ -2,10 +2,10 @@
 
 ## Télécharger la bonne version du rhlauncher :
 Téléchargez la version correspondant à votre système d'exploitation, sous la section "releases".
-Windows : rhlauncher-vx.x-win.zip
-Linux : rhlauncher-vx.x-linux.zip
-MacOS (ARM64) : rhlauncher-vx.x-macos-arm64.zip
-MacOS (x64) : rhlauncher-vx.x-macos-x64.zip
+**Windows** : rhlauncher-vx.x-win.zip
+**Linux** : rhlauncher-vx.x-linux.zip
+**MacOS (ARM64)** : rhlauncher-vx.x-macos-arm64.zip
+**MacOS (x64)** : rhlauncher-vx.x-macos-x64.zip
 
 ## Connaître sa version de MacOS :
 Si vous avec un processeur Apple Silicon M1, M2, M3 ou M4, choisissez "MacOS (ARM64)"
