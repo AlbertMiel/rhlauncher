@@ -13,4 +13,4 @@ Si vous avec un processeur Apple Silicon M1, M2, M3 ou M4, choisissez "MacOS (AR
 Pour les autres processeurs (Intel i3, i5, i7, i9), choisissez "MacOS (x64)"  
   
 ## Lancer Rhodium :  
-dézippez le fichier .zip que vous avez télécharger. Pour lancer le jeu, lancez le fichier start.bat (sous windows) ou start.sh (sous linux et macos)  
+Dézippez le fichier .zip que vous avez télécharger. Pour lancer le jeu, lancez le fichier start.bat (sous windows) ou start.sh (sous linux et macos)  
