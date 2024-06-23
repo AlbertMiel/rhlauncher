@@ -1,7 +1,7 @@
 # Comment lancer le jeu ?
 
 ## Télécharger la bonne version du rhlauncher :  
-Téléchargez la version correspondant à votre système d'exploitation, sous la section "releases".  
+Téléchargez la version correspondant à votre système d'exploitation, sous la section "releases". (dans la colonne à droite →)  
 **Windows** : rhlauncher-vx.x-win.zip  
 **Linux** : rhlauncher-vx.x-linux.zip  
 **MacOS (ARM64)** : rhlauncher-vx.x-macos-arm64.zip  
