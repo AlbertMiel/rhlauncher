@@ -6,6 +6,7 @@ Téléchargez la version correspondant à votre système d'exploitation, sous la
 **Linux** : rhlauncher-vx.x-linux.zip  
 **MacOS (ARM64)** : rhlauncher-vx.x-macos-arm64.zip  
 **MacOS (x64)** : rhlauncher-vx.x-macos-x64.zip  
+/!\ PRENEZ LA DERNIÈRE VERSION DU LAUNCHER !  
   
 ## Connaître sa version de MacOS :  
 Si vous avec un processeur Apple Silicon M1, M2, M3 ou M4, choisissez "MacOS (ARM64)"  
